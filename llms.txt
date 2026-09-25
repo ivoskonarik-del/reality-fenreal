@@ -1,0 +1,11 @@
+# Fenreal
+
+> Nabídky nemovitostí kanceláře Fenreal.
+
+- Web: https://www.evafenclova.cz/
+
+## Nabídky (4)
+- Prodej chaty 16 m², pozemek 410 m² — Bolevec, 3 490 000 Kč: prodej-chaty-16-m2-pozemek-410-m2-1947922508/
+- Prodej rodinného domu 105 m², pozemek 1073 m² — Poděvousy, 2 200 000 Kč: prodej-rodinneho-domu-105-m2-pozemek-1073-m2-3372597324/
+- Prodej rodinného domu 135 m², pozemek 7000 m² — Vojovice, 7 400 000 Kč: prodej-rodinneho-domu-135-m2-pozemek-7000-m2-844640332/
+- Prodej rodinného domu 125 m², pozemek 6000 m² — Přívětice, 7 900 000 Kč: prodej-rodinneho-domu-125-m2-pozemek-6000-m2-94228556/
